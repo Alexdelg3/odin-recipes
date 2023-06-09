@@ -1,0 +1,18 @@
+*{
+    font-family: Tahoma, "Times New Roman";
+}
+.heading-One{
+    color: rgb(240, 202, 35);
+}
+.heading-Two{
+    color: rgb(240, 158, 35);
+}
+.heading-Three{
+    color: brown;
+}
+.o-List, .u-List{
+    color: rgb(240, 100, 35);
+}
+p{
+    color: red;
+}
