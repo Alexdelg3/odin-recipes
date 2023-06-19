@@ -17,6 +17,11 @@
     color: rgb(240, 100, 35);
     padding-left: 0px;
 }
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
 li{
     list-style-type: none;
     text-align: center;
@@ -24,4 +29,5 @@ li{
 }
 p{
     color: red;
+    text-align: center;
 }
