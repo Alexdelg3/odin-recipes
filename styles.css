@@ -3,15 +3,24 @@
 }
 .heading-One{
     color: rgb(240, 202, 35);
+    text-align: center;
 }
 .heading-Two{
     color: rgb(240, 158, 35);
+    text-align: center;
 }
 .heading-Three{
     color: brown;
+    text-align: center;
 }
 .o-List, .u-List{
     color: rgb(240, 100, 35);
+    padding-left: 0px;
+}
+li{
+    list-style-type: none;
+    text-align: center;
+    padding: 5px;
 }
 p{
     color: red;
